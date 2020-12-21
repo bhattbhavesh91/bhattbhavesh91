@@ -10,9 +10,25 @@ To view my Machine Learning based YouTube channel &#10230; [Click here](https://
 
 To view my Python based YouTube channel &#10230; [Click here](https://www.youtube.com/PythonTricks/)
 
+Connect with me on these platforms:
+
+<a href="https://youtube.com/BhaveshBhatt8791"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@bhattbhavesh91"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://twitter.com/_bhaveshbhatt"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;
+
+[![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhattbhavesh91)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **bhattbhavesh91/bhattbhavesh91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattbhavesh91)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhattbhavesh91" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhattbhavesh91" />
+</a>
+
 
 Profile Visits : [![HitCount](http://hits.dwyl.com/bhattbhavesh91/bhattbhavesh91.svg)](http://hits.dwyl.com/bhattbhavesh91/bhattbhavesh91)
 
