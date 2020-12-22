@@ -4,7 +4,7 @@ I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the re
 
 In my Data Science journey so far, I have had the honor of becoming a Google Developer Expert (GDE) in Machine Learning & also being recognized as a 40 Under 40 Data Scientist.
 
-In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to 220 videos, 1.5 Million views & 28k+ subscribers.
+In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to 220 videos, 1.5 Million views & 29k+ subscribers.
 
 To view my Machine Learning based YouTube channel &#10230; [Click here](https://youtube.com/BhaveshBhatt8791)
 
@@ -12,9 +12,10 @@ To view my Python based YouTube channel &#10230; [Click here](https://www.youtub
 
 Connect with me on these platforms:
 
-<a href="https://youtube.com/BhaveshBhatt8791"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@bhattbhavesh91"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://twitter.com/_bhaveshbhatt"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;
+<a href="https://youtube.com/BhaveshBhatt8791"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@bhattbhavesh91"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://twitter.com/_bhaveshbhatt"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://youtube.com/PythonTricks"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;
 
-[![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhattbhavesh91)](https://github.com/anuraghazra/github-readme-stats)
+[![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhattbhavesh91&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
