@@ -4,7 +4,7 @@ I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the re
 
 In my Data Science journey so far, I have had the honor of becoming a Google Developer Expert (GDE) in Machine Learning & also being recognized as a 40 Under 40 Data Scientist.
 
-In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to 220 videos, 1.5 Million views & 29k+ subscribers.
+In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to 230 videos, 1.5 Million views & 30k+ subscribers.
 
 To view my Machine Learning based YouTube channel &#10230; [Click here](https://youtube.com/BhaveshBhatt8791)
 
