@@ -15,8 +15,11 @@ I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the re
 <a href="https://github.com/bhattbhavesh91">
   <img align="left" alt="Bhavesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/imthepk">
+<a href="https://about.me/bhattbhavesh91">
   <img align="left" alt="Bhavesh's About Me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg" />
+</a>
+<a href="http://bhattbhavesh91.github.io/">
+  <img align="left" alt="Bhavesh's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
 </a>
 <br/>
 <br/>
