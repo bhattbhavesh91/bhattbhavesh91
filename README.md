@@ -17,6 +17,8 @@ I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the re
 <a href="https://t.me/imthepk">
   <img align="left" alt="Bhavesh's About Me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg" />
 </a>
+<br/>
+<br/>
 
 In my Data Science journey so far, 
 * I have had the honor of becoming a Google Developer Expert (GDE) in Machine Learning 
