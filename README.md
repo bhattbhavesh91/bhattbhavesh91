@@ -19,11 +19,15 @@ Connect with me on these platforms:
 
 [![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhattbhavesh91&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=bhattbhavesh91&style=flat-square)
+
 
 <!--
 **bhattbhavesh91/bhattbhavesh91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattbhavesh91)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/bhattbhavesh91/count.svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhattbhavesh91" />
