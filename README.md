@@ -14,9 +14,9 @@ To view my Python based YouTube channel &#10230; [Click here](https://www.youtub
 
 Connect with me on these platforms:
 
+<a href="https://about.me/bhattbhavesh91"><img src="https://bhattbhavesh91.github.io/assets/images/aboutme_icon_1024.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://youtube.com/BhaveshBhatt8791"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@bhattbhavesh91"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://twitter.com/_bhaveshbhatt"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://youtube.com/PythonTricks"><img src="https://bhattbhavesh91.github.io/assets/images/python_logo.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://about.me/bhattbhavesh91"><img src="https://bhattbhavesh91.github.io/assets/images/aboutme_icon_1024.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
 [![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhattbhavesh91&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
