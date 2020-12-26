@@ -34,6 +34,7 @@ To view my Machine Learning based YouTube channel &#10230; [Click here](https://
 To view my Python based YouTube channel &#10230; [Click here](https://www.youtube.com/PythonTricks/)
 
 [![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhattbhavesh91&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=bhattbhavesh91&style=flat-square)
 
 
