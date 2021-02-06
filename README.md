@@ -2,6 +2,9 @@
 
 I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the research happening in the Data Science/ML space & I try my level best to keep up with the advances.
 
+[![Bhavesh's Youtube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg width="22px")](https://www.youtube.com/BhaveshBhatt8791)
+
+
 <a href="https://www.youtube.com/BhaveshBhatt8791" target="_blank">
   <img align="left" alt="Bhavesh's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
