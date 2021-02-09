@@ -11,6 +11,9 @@ I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the re
 <a href="https://twitter.com/_bhaveshbhatt">
   <img align="left" alt="Bhavesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://www.linkedin.com/in/bhattbhavesh91/">
+  <img align="left" alt="Bhavesh's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <a href="https://linktr.ee/bhattbhavesh91">
   <img align="left" alt="Bhavesh's Linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/linktree.svg" />
 </a>
