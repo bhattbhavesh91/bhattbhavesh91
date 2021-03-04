@@ -47,6 +47,7 @@ Subscribe to my Machine Learning based YouTube channel &#10230; [Click here](htt
 Subscribe to my Python based YouTube channel &#10230; [Click here](https://www.youtube.com/PythonTricks/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_bhaveshbhatt?label=Follow&style=social)](https://twitter.com/_bhaveshbhatt)
+[![GitHub Follow](https://img.shields.io/github/followers/bhattbhavesh91?style=social)](https://github.com/bhattbhavesh91)
 
 
 [![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhattbhavesh91&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
