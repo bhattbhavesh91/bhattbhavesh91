@@ -42,11 +42,11 @@ In my Data Science journey so far,
 
 In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to 250 videos, 1.5 Million views & 30k+ subscribers.
 
-To view my Machine Learning based YouTube channel &#10230; [Click here](https://youtube.com/BhaveshBhatt8791)
+Subscribe to my Machine Learning based YouTube channel &#10230; [Click here](https://youtube.com/BhaveshBhatt8791)
 
-To view my Python based YouTube channel &#10230; [Click here](https://www.youtube.com/PythonTricks/)
+Subscribe to my Python based YouTube channel &#10230; [Click here](https://www.youtube.com/PythonTricks/)
 
-Follow me on Twitter &#10230; [![Twitter Follow](https://img.shields.io/twitter/follow/_bhaveshbhatt?label=Follow&style=social)](https://twitter.com/_bhaveshbhatt)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_bhaveshbhatt?label=Follow&style=social)](https://twitter.com/_bhaveshbhatt)
 
 
 [![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhattbhavesh91&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
