@@ -44,7 +44,7 @@ In order to give back to the community from which I learnt so much I started cre
 
 <table>
    <tr>
-   <td><p style="font-size:50px"><b>Subscribe to my Machine Learning based YouTube channel</b></p></td>
+   <td><p style="font-size:30px"><b>Subscribe to my Machine Learning based YouTube channel</b></p></td>
       <td><a href="https://www.youtube.com/c/UC8ofcOdHNINiPrBA9D59Vaw?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social&logo=Youtube"></a></td>
       <td><a href="https://www.youtube.com/c/UC8ofcOdHNINiPrBA9D59Vaw?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw?style=social"></a></td>
    </tr>
