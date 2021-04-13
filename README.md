@@ -88,7 +88,7 @@ Subscribe to my Python based YouTube channel &#10230; [Click here](https://www.y
 
 ![](https://komarev.com/ghpvc/?username=bhattbhavesh91&style=social)
 [![GitHub Follow](https://img.shields.io/github/followers/bhattbhavesh91?style=social&label=My%20GitHub%20Followers)](https://github.com/bhattbhavesh91)
-[![GitHub User's stars](https://img.shields.io/github/stars/bhattbhavesh91?label=My%20GitHub%20Stars&style=social)](https://github.com/bhattbhavesh91)
+[![GitHub User's stars](https://img.shields.io/github/stars/bhattbhavesh91?label=Star%20Gazers&style=social)](https://github.com/bhattbhavesh91)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_bhaveshbhatt?label=Follow%20Me%20on%20Twitter&style=social)](https://twitter.com/_bhaveshbhatt)
 
 
