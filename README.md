@@ -42,14 +42,18 @@ In my Data Science journey so far,
 
 In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to 260 videos, 2 Million views & 32k+ subscribers.
 
+<table>
+   <tr>
+   <td><p style="font-size:20px">Subscribe to my Machine Learning based YouTube channel</p></td>
+      <td><a href="https://www.youtube.com/c/UC8ofcOdHNINiPrBA9D59Vaw?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social&logo=Youtube"></a></td>
+      <td><a href="https://www.youtube.com/c/UC8ofcOdHNINiPrBA9D59Vaw?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw?style=social"></a></td>
+   </tr>
+</table>
 
+<!---
 ### Subscribe to my Machine Learning based YouTube channel : 
 [![YouTube ML Channel](https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social)](https://www.youtube.com/c/BhaveshBhatt8791/?sub_confirmation=1) [![YouTube ML Channel Stats](https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw)](https://www.youtube.com/c/BhaveshBhatt8791/?sub_confirmation=1)
 
-
-
-
-<!---
 Subscribe to my Machine Learning based YouTube channel &#10230; [Click here](https://youtube.com/BhaveshBhatt8791)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw?style=social)
