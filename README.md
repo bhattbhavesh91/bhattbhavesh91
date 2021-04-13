@@ -43,6 +43,20 @@ In my Data Science journey so far,
 In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to 260 videos, 2 Million views & 32k+ subscribers.
 
 
+
+<table font-size:30px;>
+   <tr>
+      <td><a href="https://www.youtube.com/BhaveshBhatt8791?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social&logo=Youtube&label=Subscribe%20to%20my%20Machine%20Learning%20channel"></a></td>
+      <td><a href="https://www.youtube.com/BhaveshBhatt8791?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw?color=blue&label=Views&logo=YouTube&style=flat-square"></a></td>
+   </tr>
+      <tr>
+      <td><a href="https://www.youtube.com/c/PythonTricks?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCo_uTt4go2qs8xOJaUgsiiw?style=social&logo=Youtube&label=Subscribe%20to%20my%20Python%20channel"></a></td>
+      <td><a href="https://www.youtube.com/c/PythonTricks?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCo_uTt4go2qs8xOJaUgsiiw?color=Yellow&label=Views&logo=YouTube&logoColor=Red&style=flat-square"></a></td>
+   </tr>
+</table>
+
+
+<!---
 <table font-size:30px;>
    <tr>
    <td><b>Subscribe to my Machine Learning channel</b></td>
@@ -55,6 +69,7 @@ In order to give back to the community from which I learnt so much I started cre
       <td><a href="https://www.youtube.com/c/PythonTricks?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCo_uTt4go2qs8xOJaUgsiiw?color=Yellow&label=Views&logo=YouTube&logoColor=Red&style=flat-square"></a></td>
    </tr>
 </table>
+-->
 
 <!---
 ### Subscribe to my Machine Learning based YouTube channel : 
