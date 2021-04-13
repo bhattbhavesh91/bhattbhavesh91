@@ -51,8 +51,8 @@ In order to give back to the community from which I learnt so much I started cre
    </tr>
       <tr>
    <td><b>Subscribe to my Python channel</b></td>
-      <td><a href="https://www.youtube.com/c/UCo_uTt4go2qs8xOJaUgsiiw?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCo_uTt4go2qs8xOJaUgsiiw?style=social&logo=Youtube"></a></td>
-      <td><a href="https://www.youtube.com/c/UCo_uTt4go2qs8xOJaUgsiiw?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCo_uTt4go2qs8xOJaUgsiiw?style=social"></a></td>
+      <td><a href="https://www.youtube.com/c/PythonTricks?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCo_uTt4go2qs8xOJaUgsiiw?style=social&logo=Youtube"></a></td>
+      <td><a href="https://www.youtube.com/c/PythonTricks?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCo_uTt4go2qs8xOJaUgsiiw?style=social"></a></td>
    </tr>
 </table>
 
