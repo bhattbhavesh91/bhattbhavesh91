@@ -92,7 +92,7 @@ Subscribe to my Python based YouTube channel &#10230; [Click here](https://www.y
 [![Twitter Follow](https://img.shields.io/twitter/follow/_bhaveshbhatt?label=Follow%20Me%20on%20Twitter&style=social)](https://twitter.com/_bhaveshbhatt)
 
 
-Collaboration opportunities? [Contact me](https://bhattbhavesh91.github.io/contact/)
+**Collaboration opportunities?** [Contact me](https://bhattbhavesh91.github.io/contact/)
 
 <!--
 ### Bhavesh Bhatt
