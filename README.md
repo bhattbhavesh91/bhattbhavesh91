@@ -43,9 +43,8 @@ In my Data Science journey so far,
 In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to 260 videos, 2 Million views & 32k+ subscribers.
 
 
-Subscribe to my Machine Learning based YouTube channel &#10230; 
+Subscribe to my Machine Learning based YouTube channel &#10230; [![YouTube ML Channel](https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social)](https://www.youtube.com/c/BhaveshBhatt8791/?sub_confirmation=1)
 
-![YouTube ML Channel](https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social)(https://www.youtube.com/c/BhaveshBhatt8791/?sub_confirmation=1)
 
 
 <!---
