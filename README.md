@@ -42,9 +42,9 @@ In my Data Science journey so far,
 
 In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to 260 videos, 2 Million views & 32k+ subscribers.
 
-<table>
+<table font-size:40px;>
    <tr>
-   <td><p style="font-size:30px"><b>Subscribe to my Machine Learning based YouTube channel</b></p></td>
+   <td><b>Subscribe to my Machine Learning based YouTube channel</b></td>
       <td><a href="https://www.youtube.com/c/UC8ofcOdHNINiPrBA9D59Vaw?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social&logo=Youtube"></a></td>
       <td><a href="https://www.youtube.com/c/UC8ofcOdHNINiPrBA9D59Vaw?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw?style=social"></a></td>
    </tr>
