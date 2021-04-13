@@ -42,11 +42,17 @@ In my Data Science journey so far,
 
 In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to 260 videos, 2 Million views & 32k+ subscribers.
 
-<table font-size:40px;>
+
+<table font-size:30px;>
    <tr>
-   <td><b>Subscribe to my Machine Learning based YouTube channel</b></td>
+   <td><b>Subscribe to my Machine Learning channel</b></td>
       <td><a href="https://www.youtube.com/c/UC8ofcOdHNINiPrBA9D59Vaw?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social&logo=Youtube"></a></td>
       <td><a href="https://www.youtube.com/c/UC8ofcOdHNINiPrBA9D59Vaw?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw?style=social"></a></td>
+   </tr>
+      <tr>
+   <td><b>Subscribe to my Python channel</b></td>
+      <td><a href="https://www.youtube.com/c/UCo_uTt4go2qs8xOJaUgsiiw?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCo_uTt4go2qs8xOJaUgsiiw?style=social&logo=Youtube"></a></td>
+      <td><a href="https://www.youtube.com/c/UCo_uTt4go2qs8xOJaUgsiiw?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCo_uTt4go2qs8xOJaUgsiiw?style=social"></a></td>
    </tr>
 </table>
 
@@ -58,9 +64,10 @@ Subscribe to my Machine Learning based YouTube channel &#10230; [Click here](htt
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw?style=social)
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw?style=social">
--->
 
 Subscribe to my Python based YouTube channel &#10230; [Click here](https://www.youtube.com/PythonTricks/)
+-->
+
 
 
 [![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhattbhavesh91&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
