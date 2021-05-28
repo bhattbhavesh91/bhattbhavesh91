@@ -38,9 +38,9 @@ I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the re
 In my Data Science journey so far, 
 * I have had the honor of becoming a Google Developer Expert (GDE) in Machine Learning.
 * I have also been awarded the prestigious 40 Under 40 Data Scientist award by Analytics India Magazine in January 2020.
-* I am extremely humbled to have more than 1000 followers on GitHub.
+* I am extremely humbled to have more than 1200 followers on GitHub.
 
-In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to 260 videos, 2 Million views & 32k+ subscribers.
+In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to 270 videos, 2 Million views & 33k+ subscribers.
 
 
 
