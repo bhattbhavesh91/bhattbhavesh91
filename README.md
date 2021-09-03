@@ -97,10 +97,10 @@ Subscribe to my Python based YouTube channel &#10230; [Click here](https://www.y
 
 
 **Do you want to contact me for collaboration opportunities?** 
-<details> 
-  <summary>Contact Details</summary>
-  [Contact Details](https://bhattbhavesh91.github.io/contact/)
-</details> 
+<!-- <details>  -->
+<!--   <summary>Contact Details</summary> -->
+[Contact Details](https://bhattbhavesh91.github.io/contact/)
+<!-- </details>  -->
   
 **If you like my work, you can support me by buying me a coffee by clicking the link below**
 
