@@ -47,7 +47,7 @@ In order to give back to the community from which I learnt so much I started cre
 <!-- [![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/bhattbhavesh91) -->
 <!-- <iframe src="https://github.com/sponsors/bhattbhavesh91/button" title="Sponsor bhattbhavesh91" height="35" width="116" style="border: 0;"></iframe> -->
 
-![GitHub Sponsor](https://img.shields.io/badge/%E2%99%A1-Sponsor%20Me%20on%20GitHub-blue)
+[![GitHub Sponsor](https://img.shields.io/badge/%E2%99%A1-Sponsor%20Me%20on%20GitHub-blue)](https://github.com/sponsors/bhattbhavesh91)
 
 <table font-size:30px;>
    <tr>
