@@ -26,6 +26,9 @@ I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the re
 <a href="http://bhattbhavesh91.github.io/">
   <img align="left" alt="Dev.to Link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
 </a>
+<a href="https://t.me/bhattbhavesh91">
+  <img align="left" alt="Telegram Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+</a>
 <a href="https://dev.to/bhattbhavesh91">
   <img align="left" alt="Bhavesh's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />
 </a>
