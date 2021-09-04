@@ -46,8 +46,8 @@ In order to give back to the community from which I learnt so much I started cre
 <!-- ### You can sponsor my work through [GitHub Sponsors.](https://github.com/sponsors/bhattbhavesh91) -->
 <!-- [![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/bhattbhavesh91) -->
 <!-- <iframe src="https://github.com/sponsors/bhattbhavesh91/button" title="Sponsor bhattbhavesh91" height="35" width="116" style="border: 0;"></iframe> -->
-
-[![GitHub Sponsor](https://img.shields.io/badge/%E2%99%A1-Sponsor%20Me%20on%20GitHub-blue)](https://github.com/sponsors/bhattbhavesh91)
+<!-- [![GitHub Sponsor](https://img.shields.io/badge/%E2%99%A1-Sponsor%20Me%20on%20GitHub-blue)](https://github.com/sponsors/bhattbhavesh91) -->
+<!-- <a href="https://github.com/sponsors/bhattbhavesh91" target="_blank"><img height="40" alt="GitHub Sponsor" src = "https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a> -->
 
 <table font-size:30px;>
    <tr>
@@ -99,11 +99,13 @@ Subscribe to my Python based YouTube channel &#10230; [Click here](https://www.y
 [![GitHub forks](https://img.shields.io/github/forks/bhattbhavesh91/?style=social&label=Fork&maxAge=2592000)](https://github.com/bhattbhavesh91)
 -->
 
+<a href="https://github.com/sponsors/bhattbhavesh91" target="_blank"><img height="40" alt="GitHub Sponsor" src = "https://img.shields.io/badge/Sponsor me on GitHub-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
+<a href="https://t.me/bhattbhavesh91" target="_blank"><img height="40" alt="Telegram Channel Link" src = "https://img.shields.io/badge/Join my Telegram channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-**Do you want to contact me for collaboration opportunities?** 
+**Do you want to contact me for collaboration opportunities?** ⟶ [Contact Details](https://bhattbhavesh91.github.io/contact/)
 <!-- <details>  -->
 <!--   <summary>Contact Details</summary> -->
-[Contact Details](https://bhattbhavesh91.github.io/contact/)
+<!-- [Contact Details](https://bhattbhavesh91.github.io/contact/) -->
 <!-- </details>  -->
   
 **If you like my work, you can support me by buying me a coffee by clicking the link below**
