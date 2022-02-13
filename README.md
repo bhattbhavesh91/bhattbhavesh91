@@ -42,9 +42,9 @@ In my Data Science journey so far,
 * I have had the honor of becoming a **Google Developer Expert (GDE) in Machine Learning**.
 * I have also been awarded the prestigious **40 Under 40 Data Scientist** award by Analytics India Magazine in January 2020.
 * I am humbled to share that I have been recognized by **GitHub** as a **GitHub Star** in July 2021. 69th worldwide out of ~65 million developers on GitHub. It feels great to be recognized for my open-source work.
-* I am extremely humbled to have more than **1500+ followers** on GitHub.
+* I am extremely humbled to have more than **1700+ followers** on GitHub.
 
-In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to **300** videos with **2+ Million views** & **40k+ subscribers**.
+In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to **320** videos with **3+ Million views** & **40k+ subscribers**.
 
 <!-- ### You can sponsor my work through [GitHub Sponsors.](https://github.com/sponsors/bhattbhavesh91) -->
 <!-- [![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/bhattbhavesh91) -->
