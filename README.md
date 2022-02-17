@@ -38,11 +38,15 @@ I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the re
 <br/>
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 In my Data Science journey so far, 
 * I have had the honor of becoming a **Google Developer Expert (GDE) in Machine Learning**.
 * I have also been awarded the prestigious **40 Under 40 Data Scientist** award by Analytics India Magazine in January 2020.
 * I am humbled to share that I have been recognized by **GitHub** as a **GitHub Star** in July 2021. 69th worldwide out of ~65 million developers on GitHub. It feels great to be recognized for my open-source work.
 * I am extremely humbled to have more than **1700+ followers** on GitHub.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to **320** videos with **3+ Million views** & **40k+ subscribers**.
 
@@ -114,6 +118,9 @@ Subscribe to my Python based YouTube channel &#10230; [Click here](https://www.y
 **If you like my work, you can support me by buying me a coffee by clicking the link below**
 
 <a href="https://www.buymeacoffee.com/bhattbhavesh91" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 
 <!--
 ### Bhavesh Bhatt
