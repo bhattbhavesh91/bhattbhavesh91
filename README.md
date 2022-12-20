@@ -44,7 +44,7 @@ In my Data Science journey so far,
 * I have had the honor of becoming a **Google Developer Expert (GDE) in Machine Learning**.
 * I have also been awarded the prestigious **40 Under 40 Data Scientist** award by Analytics India Magazine in January 2020.
 * I am humbled to share that I have been recognized by **GitHub** as a **GitHub Star** in July 2021. 69th worldwide out of ~65 million developers on GitHub. It feels great to be recognized for my open-source work.
-* I am extremely humbled to have more than **1800+ followers** on GitHub.
+* I am extremely humbled to have more than **2000+ followers** on GitHub.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
