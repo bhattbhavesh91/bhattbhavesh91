@@ -48,7 +48,7 @@ In my Data Science journey so far,
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to **350+** videos with **4+ Million views** & **50k+ subscribers**.
+In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to **400+** videos with **5+ Million views** & **60k+ subscribers**.
 
 <!-- ### You can sponsor my work through [GitHub Sponsors.](https://github.com/sponsors/bhattbhavesh91) -->
 <!-- [![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/bhattbhavesh91) -->
