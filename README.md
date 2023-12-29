@@ -41,10 +41,11 @@ I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the re
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 In my Data Science journey so far, 
-* I have had the honor of becoming a **Google Developer Expert (GDE) in Machine Learning**.
-* I have also been awarded the prestigious **40 Under 40 Data Scientist** award by Analytics India Magazine in January 2020.
-* I am humbled to share that I have been recognized by **GitHub** as a **GitHub Star** ⭐ in July 2021. 69th worldwide out of ~65 million developers on GitHub. It feels great to be recognized for my open-source work.
-* I am extremely humbled to have more than **2200+ followers** on GitHub.
+* Achieving the status of a **Google Developer Expert (GDE) in Machine Learning** has been a noteworthy honor in my professional journey.
+* In July 2021, I proudly received the **GitHub Star** ⭐ recognition, securing the 69th position globally among approximately 65 million developers. The acknowledgment of my open-source contributions is both rewarding and humbling, and I am grateful for the support of over **2200+ followers** on GitHub.
+* The recognition as a recipient of the **40 Under 40 Data Scientist** award by Analytics India Magazine in January 2020 stands as a significant achievement in my career.
+* In April 2023, I was privileged to be awarded the **Community Excellence** accolade during Neo4j's premier gathering, **Graphsummit 2023**.
+* The privilege of being selected as a **Gartner Ambassador** for **Data & Analytics** in October 2023 is a source of deep honor and reinforces my commitment to the field.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
