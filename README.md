@@ -44,6 +44,7 @@ In my Data Science journey so far,
 * In October 2019, I attained the prestigious title of a **Google Developer Expert (GDE) in Machine Learning**, marking a significant milestone in my professional journey and adding a noteworthy honor to my accomplishments.
 * The recognition as a recipient of the **40 Under 40 Data Scientist** award by Analytics India Magazine in January 2020 stands as a significant achievement in my career.
 * In July 2021, I proudly received the **GitHub Star** ⭐ recognition, securing the 69th position globally among approximately 65 million developers. The acknowledgment of my open-source contributions is both rewarding and humbling, and I am grateful for the support of over **2200+ followers** on GitHub.
+* I am truly humbled to be a member of the **Google Cloud Innovator** Program, having joined in December 2021.
 * In February 2023, I attained the status of a **Neo4j Ninja** 🥷 & by April of the same year, I had the honor of receiving the **Community Excellence** award at **Graphsummit 2023**, Neo4j's prestigious event.
 * The privilege of being selected as a **Gartner Ambassador** for **Data & Analytics** in October 2023 is a source of deep honor and reinforces my commitment to the field.
 
