@@ -1,6 +1,6 @@
 ### Bhavesh Bhatt
 
-I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the research happening in the Data Science/ML space & I try my level best to keep up with the advances.
+I currently work as a AVP of Data Science (Generative AI), where I find immense joy in problem-solving. The ongoing research in the Generative AI domain fascinates me deeply & I try my level best to keep up with the advances.
 
 <a href="https://www.youtube.com/BhaveshBhatt8791">
   <img align="left" alt="Bhavesh's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
