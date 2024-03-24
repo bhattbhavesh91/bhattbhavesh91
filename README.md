@@ -43,15 +43,16 @@ I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the re
 In my Data Science journey so far, 
 * In October 2019, I attained the prestigious title of a **Google Developer Expert (GDE) in Machine Learning**, marking a significant milestone in my professional journey and adding a noteworthy honor to my accomplishments.
 * The recognition as a recipient of the **40 Under 40 Data Scientist** award by Analytics India Magazine in January 2020 stands as a significant achievement in my career.
-* In July 2021, I proudly received the **GitHub Star** ⭐ recognition, securing the 69th position globally among approximately 65 million developers. The acknowledgment of my open-source contributions is both rewarding and humbling, and I am grateful for the support of over **2200+ followers** on GitHub.
+* In July 2021, I proudly received the **GitHub Star** ⭐ recognition, securing the 69th position globally among approximately 65 million developers. The acknowledgment of my open-source contributions is both rewarding and humbling, and I am grateful for the support of over **2300+ followers** on GitHub.
 * I am truly humbled to be a member of the **Google Cloud Innovator** Program, having joined in December 2021.
 * In February 2023, I attained the status of a **Neo4j Ninja** 🥷 & by April of the same year, I had the honor of receiving the **Community Excellence** award at **Graphsummit 2023**, Neo4j's prestigious event.
 * The privilege of being selected as a **Gartner Ambassador** for **Data & Analytics** in October 2023 is a source of deep honor and reinforces my commitment to the field.
 * The experience of developing a product that secured the esteemed **Best AI/ML Product of the Year award at Cypher 2022**, along with receiving recognition for my **Generative AI project** at **Cypher 2023** has been genuinely humbling.
+* Attending the inaugural **Indian National Creators Award** in March 2023 was undeniably a remarkable privilege.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to **400+** videos with **5+ Million views** & **100k+ subscribers**.
+In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have 2 YouTube channels with close to **400+** videos with **5+ Million views** & **105k+ subscribers**.
 
 <!-- ### You can sponsor my work through [GitHub Sponsors.](https://github.com/sponsors/bhattbhavesh91) -->
 <!-- [![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/bhattbhavesh91) -->
