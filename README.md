@@ -40,7 +40,7 @@ I currently work as a AVP of Data Science (Generative AI), where I find immense 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-In my Data Science journey so far, 
+In my journey so far, 
 * In October 2019, I attained the prestigious title of a **Google Developer Expert (GDE) in Machine Learning**, marking a significant milestone in my professional journey and adding a noteworthy honor to my accomplishments.
 * The recognition as a recipient of the **40 Under 40 Data Scientist** award by Analytics India Magazine in January 2020 stands as a significant achievement in my career.
 * In July 2021, I proudly received the **GitHub Star** ⭐ recognition, securing the 69th position globally among approximately 65 million developers. The acknowledgment of my open-source contributions is both rewarding and humbling, and I am grateful for the support of over **2300+ followers** on GitHub.
