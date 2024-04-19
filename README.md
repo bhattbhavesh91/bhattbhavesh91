@@ -48,7 +48,7 @@ In my journey so far,
 * In February 2023, I attained the status of a **Neo4j Ninja** 🥷 & by April of the same year, I had the honor of receiving the **Community Excellence** award at **Graphsummit 2023**, Neo4j's prestigious event.
 * The privilege of being selected as a **Gartner Ambassador** for **Data & Analytics** in October 2023 is a source of deep honor and reinforces my commitment to the field.
 * The experience of developing a product that secured the esteemed **Best AI/ML Product of the Year award at Cypher 2022**, along with receiving recognition for my **Generative AI project** at **Cypher 2023** has been genuinely humbling.
-* Attending the inaugural **Indian National Creators Award** in March 2023 was undeniably a remarkable privilege.
+* Attending the inaugural **Indian National Creators Award** in March 2024 was undeniably a remarkable privilege.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
