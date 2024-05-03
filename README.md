@@ -46,7 +46,7 @@ In my journey so far,
 * In July 2021, I proudly received the **GitHub Star** ⭐ recognition, securing the 69th position globally among approximately 65 million developers. The acknowledgment of my open-source contributions is both rewarding and humbling, and I am grateful for the support of over **2300+ followers** on GitHub.
 * I am truly humbled to be a member of the **Google Cloud Innovator** Program, having joined in December 2021.
 * In February 2023, I attained the status of a **Neo4j Ninja** 🥷 & by April of the same year, I had the honor of receiving the **Community Excellence** award at **Graphsummit 2023**, Neo4j's prestigious event.
-* The privilege of being selected as a **Gartner Ambassador** for **Data & Analytics** in October 2023 is a source of deep honor and reinforces my commitment to the field.
+* The privilege of being selected as a **Gartner Peer Community Ambassador** for **Data & Analytics** in October 2023 is a source of deep honor and reinforces my commitment to the field.
 * The experience of developing a product that secured the esteemed **Best AI/ML Product of the Year award at Cypher 2022**, along with receiving recognition for my **Generative AI project** at **Cypher 2023** has been genuinely humbling.
 * Attending the inaugural **Indian National Creators Award** in March 2024 was undeniably a remarkable privilege.
 
