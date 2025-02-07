@@ -52,6 +52,7 @@ In my journey so far,
 * Out of over **60,000+** applicants from more than 100 countries, I was honored to be one of the **10** selected to compete in the inaugral **Global Prompt Engineering Championship** in the literature category in Dubai.
 * Thrilled & humbled to be recognized as one of the **Top 10 AI Community Contributor**s at the AV Luminary Awards, presented by Analytics Vidhya at DataHack Summit 2024.
 * Out of over **5300+ participants**, I took home the **1st Prize** in the Professionals Track at the **Cosmocloud Low-Code Hackathon** & that's not all, I was also awarded the Best Use of MongoDB Atlas Vector Search for our innovative approach.
+* In February 2025, I was honored with the prestigious **"Digital Trendsetter"** award at the Google Community Summit in Kovalam, India✨
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
